@@ -1,9 +1,10 @@
+import NavigationBar from "./components/navigationbar/NavigationBar";
 import "./styles/App.css";
 
 function App() {
   return (
     <div>
-      <h1>This is where we render page</h1>
+      <NavigationBar />
     </div>
   );
 }
