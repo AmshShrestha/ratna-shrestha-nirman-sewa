@@ -6,13 +6,13 @@ const initialState = {
       navigate: "Where we are",
     },
     {
-      navigate: "Where we are",
+      navigate: "Our Projects",
     },
     {
-      navigate: "Where we are",
+      navigate: "Gallary",
     },
     {
-      navigate: "Where we are",
+      navigate: "Connect With Us",
     },
   ],
 };

@@ -1,8 +1,20 @@
 .background {
-    background-color: blue;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #0077ff;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.navContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
 }
 
 .navDecoration {
-    text-decoration: none;
-    color: white;
+  text-decoration: none;
+  color: white;
 }
